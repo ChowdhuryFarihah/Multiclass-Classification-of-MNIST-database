@@ -5,3 +5,5 @@ Utilized the following libraries:
 * PyTorch
 * Numpy
 * MatPlotLib
+
+(Note that the file containing the training images could not be uploaded due to file size limitations.)
